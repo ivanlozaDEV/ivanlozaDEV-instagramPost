@@ -1,0 +1,68 @@
+body {
+    background: black; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  
+  .container {
+    background: white; 
+    max-width: 500px;  
+    height: 800px;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+  }
+  
+  .header {
+   display:flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: flex-start; 
+   padding: 0 5px; 
+   height: 60px;
+  }
+  
+  
+  .htmlRigoberto > *{
+    display:flex;
+    flex-direction: column;
+    margin: 4px;
+    padding: 0px;
+    margin-right: auto;    
+  }
+  
+  
+  #trespuntitos {
+    margin-left: auto;
+  }
+  
+  
+  .iconBar {
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start; 
+    padding: 4px; 
+  }
+  
+  #bookmark {
+    margin-left: auto;
+  }
+  
+  
+  .comments {
+    padding: 12px;
+    text-align: justify;
+  }
+  
+  
+  i {
+   font-size: 25px;
+   padding: 5px;
+  }
+  
+  
+  
+  
